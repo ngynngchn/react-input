@@ -1,0 +1,13 @@
+section {
+	background-color: bisque;
+	width: 50%;
+	margin: 10vw auto;
+	padding: 2rem;
+}
+
+input {
+	background-color: bisque;
+	border: 2px solid rgb(150, 136, 119);
+	padding: 0.5rem;
+	border-radius: 3px;
+}
